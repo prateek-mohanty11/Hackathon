@@ -46,7 +46,7 @@ export const healthyFoods = [
       {
         name: "Sprouts Salad",
         benefits: "High in protein and enzymes. Aids digestion.",
-        image: "https://images.unsplash.com/photo-1615485290398-1f9a29f06343?w=400",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYKNKewUCd84_HImWit3fBfxfQWq-GKAFzw&s",
         nutrition: "54 calories, 4g protein, 2g fiber"
       },
       {
@@ -58,7 +58,7 @@ export const healthyFoods = [
       {
         name: "Sweet Potato",
         benefits: "High in vitamin A and fiber. Good for eye health.",
-        image: "https://images.unsplash.com/photo-1596097635121-14b63b7a0c19?w=400",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI45azgdQ7hG_bIf0CNOYBJf1cylaOscWNPA&s",
         nutrition: "103 calories, 4g fiber, 6g sugar"
       },
       {
@@ -75,13 +75,13 @@ export const healthyFoods = [
       {
         name: "Chia Seeds",
         benefits: "Rich in omega-3 fatty acids and fiber.",
-        image: "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?w=400",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVGXqXLSMRi4C3WncEO7l1jok6Yp-YbOIyg&s",
         nutrition: "138 calories per oz, 10g fiber, 0g sugar"
       },
       {
         name: "Quinoa",
         benefits: "Complete protein source, rich in minerals.",
-        image: "https://images.unsplash.com/photo-1595159798802-1b80e8c15d1f?w=400",
+        image: "https://i.etsystatic.com/19019143/r/il/aca4ef/3942752311/il_fullxfull.3942752311_fnuk.jpg",
         nutrition: "120 calories per 100g, 2.8g fiber, 0g sugar"
       },
       {
@@ -89,6 +89,18 @@ export const healthyFoods = [
         benefits: "Heart-healthy fats and protein.",
         image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=400",
         nutrition: "164 calories per oz, 3.5g fiber, 1g sugar"
+      },
+      {
+        name: "Oats",
+        benefits: "Source of fibre and protein.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOqvYQtmlRQ95Cj30Fu4FID4ziR2B7R82SA&s",
+        nutrition: "348 calories per oz, 10g fiber, 13.5g protein"
+      },
+      {
+        name: "Berries",
+        benefits: "Rich in antioxidants.",
+        image: "https://imgs.search.brave.com/TnG0oLlhPYseqe8RugqR8qbBAds7F9PZdpbeig6o-B4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb2xsZWN0aW9u/LXN3ZWV0LWJlcnJp/ZXNfMTgzMzUyLTQ3/MzguanBnP3NlbXQ9/YWlzX2h5YnJpZA",
+        nutrition: "44 kcal, 4.3g fibre, 600-700mg Vitamin C "
       }
     ]
   }
